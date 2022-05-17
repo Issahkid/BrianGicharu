@@ -4,11 +4,8 @@
     :train:
   </div>
   <hr>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-            crossorigin="anonymous">
   <div>
-    <a href="https://www.linkedin.com/in/brian-gicharu-1ba35b209/" class="button" target=_blank><button class="btn btn-info">LinkedIn</button></a>
+    <a href="https://www.linkedin.com/in/brian-gicharu-1ba35b209/" class="button danger" target=_blank>LinkedIn</a>
   </div>
   <br>
 </marquee>
