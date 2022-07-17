@@ -21,4 +21,10 @@
 <a href="https://www.sololearn.com/profile/10367617" class="button danger" target="_blank">
   <img alt="sololearn" src="https://blob.sololearn.com/avatars/sololearn.png" width=auto" height="75">
 </a>
+<a href="" class="button danger" target="_blank">                                                      
+  <img alt="WHITE" src="https://wallpapercave.com/wp/wp6903417.jpg" width="20" height="75">
+</a>
+<a href="https://web.facebook.com/brian.gicharu/" class="button danger" target="_blank">
+  <img alt="facebook" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/150px-Facebook_f_logo_%282021%29.svg.png" width=auto" height="75">
+</a>
 <hr>
