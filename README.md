@@ -27,11 +27,13 @@
 </a>
 <a href="https://web.facebook.com/brian.gicharu/" target="_blank">
   <img alt="facebook" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/150px-Facebook_f_logo_%282021%29.svg.png" width=auto" height="75">
-<!--a href="" target="_blank">                                                      
-  <img alt="WHITE" src="https://wallpapercave.com/wp/wp6903417.jpg" width="20" height="75">
-</a-->
 <hr>
 <a href="https://twitter.com/brian_gicharu?lang=en" target="_blank">
   <img alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20211104142029" width=auto" height="75">
 </a>
+<a href="" target="_blank">                                                      
+  <img alt="WHITE" src="https://wallpapercave.com/wp/wp6903417.jpg" width="20" height="75">
+</a>
+<a href="https://api.whatsapp.com/send?phone=+254725200738&text=Hello%20I%20am%20texting%20to%20request%20for%20programming%20services" target="_blank">
+  <img alt="whatsapp" src="https://upload.wikimedia.org/wikipedia/commons/1/19/WhatsApp_logo-color-vertical.svg" width=auto" height="75">
 <hr>
